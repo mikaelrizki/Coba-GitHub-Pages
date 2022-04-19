@@ -1,6 +1,8 @@
 body{
     background-color: aquamarine;
     margin: 0;
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    color: 'darkblue';
 }
 
 div{
